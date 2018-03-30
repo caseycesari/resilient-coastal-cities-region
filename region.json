@@ -65,6 +65,11 @@
                     "title": "<img src='img/community_planning.png' hspace=10>Community Planning",
                     "description": "Community-scale data for conservation and adaptation planning",
                     "pluginName": "regional-planning"
+                },
+		{
+                    "title": "Flood Tags",
+                    "description": "need text here",
+                    "pluginName": "floodtags-test-app"
                 }
             ],
              "partners": [
