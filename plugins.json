@@ -7,10 +7,6 @@
             "rev": "e1642ae597f0247ca80ea8dbce1e64987c47d544"
         },
         {
-            "repo": "floodtags-test-app",
-            "name": "floodtags-test-app"
-        },
-        {
             "repo": "3d-sample",
             "name": "3d-sample"
         }
