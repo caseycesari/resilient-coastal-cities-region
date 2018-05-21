@@ -9,6 +9,10 @@
         {
             "repo": "3d-sample",
             "name": "3d-sample"
+        },
+        {
+            "repo": "resilient-coastal-cities",
+            "name": "resilient-coastal-cities"
         }
     ]
 }
