@@ -2,6 +2,10 @@
     "googleAnalyticsPropertyId": "7401895-38",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
     "titleMain": { "text": "Coastal Resilience", "url": "" },
+     "singlePluginMode": {
+        "active": true,
+        "pluginFolderName": "resilient-coastal-cities"
+    },
     "titleDetail": { "text": "Resilient Coastal Cities", "url": "" },
 	"headerLinks": [
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
@@ -37,13 +41,7 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-		"launchpad",
-        "regional-planning",
-	    "zoom_to",
-        "measure",
-        "legend_display",
-        "full_extent",
-        "subregion_toggle"
+		"resilient-coastal-cities"
     ],
     "print": {
         "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
@@ -57,27 +55,4 @@
 		"active": "#0096D6"
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
-    "launchpad": {
-            "title": "Resilient Coastal Cities",
-            "description": "<p>The Coastal Resilience decision-support tool provides communities access to the best available science and local data on coastal hazards to visualize their risks and examine where nature can increase resilience and reduce risk through conservation and restoration activities.</p>",
-			 "plugins": [	
-                {
-                    "title": "<img src='img/community_planning.png' hspace=10>Community Planning",
-                    "description": "Community-scale data for conservation and adaptation planning",
-                    "pluginName": "regional-planning"
-                },
-		{
-                    "title": "Flood Tags",
-                    "description": "need text here",
-                    "pluginName": "floodtags-test-app"
-                }
-            ],
-             "partners": [
-                {
-                    "logoPath": "img/TNCLogoPrimary_RGB.png",
-                    "link": "http://nature.org",
-                    "title": "The Nature Conservancy"
-                }
-            ]
-      }
 }
