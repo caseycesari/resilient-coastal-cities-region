@@ -1,8 +1,8 @@
 {
-    "plugins": [
-        {
-            "repo": "resilient-coastal-cities",
-            "name": "resilient-coastal-cities"
-        }
-    ]
+  "plugins": [
+      {
+          "repo": "resilient-coastal-cities",
+          "name": "resilient-coastal-cities"
+      }
+  ]
 }
