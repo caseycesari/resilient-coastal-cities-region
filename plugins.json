@@ -1,8 +1,8 @@
 {
   "plugins": [
       {
-          "repo": "resilient-coastal-cities",
-          "name": "resilient-coastal-cities"
+          "repo": "ecological-effects-slc",
+          "name": "ecological-effects-slc"
       }
   ]
 }
