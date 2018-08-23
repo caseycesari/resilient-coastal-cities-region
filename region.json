@@ -25,10 +25,10 @@
             { "text": "Washington", "url": "http://maps.coastalresilience.org/pugetsound" }
     ],
     "initialExtent": [
-         110.352797644,
-        -7.062522887,
-        110.523324465,
-        -6.919333342
+         110.282797644,
+        -7.132522887,
+        110.593324465,
+        -6.849333342
     ],
     "basemaps": [
         { "name": "Streets"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer" },
