@@ -11,19 +11,6 @@
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
         { "text": "Legal Disclosure", "url": "http://coastalresilience.org/terms-of-use/" }
     ],
-    "regionLinks": [
-            { "text": "California", "url": "http://maps.coastalresilience.org/california" },
-            { "text": "Connecticut", "url": "http://maps.coastalresilience.org/connecticut" },
-            { "text": "Global", "url": "http://maps.coastalresilience.org/global/" },
-            { "text": "Gulf of Mexico", "url": "http://maps.coastalresilience.org/gulfmex/" },
-            { "text": "Grenada, St. Vincent & the Grenadines", "url": "http://maps.coastalresilience.org/gsvg/" },
-            { "text": "MesoAmerican Reef", "url": "http://maps.coastalresilience.org/mar/" },
-            { "text": "New Jersey", "url": "http://maps.coastalresilience.org/newjersey" },
-            { "text": "Southeast Florida", "url": "http://maps.coastalresilience.org/seflorida/" },
-            { "text": "United States", "url": "http://maps.coastalresilience.org/unitedstates/" },
-            { "text": "U.S. Virgin Islands", "url": "http://maps.coastalresilience.org/usvi/" },
-            { "text": "Washington", "url": "http://maps.coastalresilience.org/pugetsound" }
-    ],
     "initialExtent": [
          110.282797644,
         -7.132522887,
