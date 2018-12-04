@@ -1,15 +1,15 @@
 {
     "googleAnalyticsPropertyId": "7401895-48",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Resilient Coastal Cities", "url": "http://maps.coastalresilience.org/indonesia" },
-    "titleDetail": { "text": "Indonesia", "url": "http://coastalresilience.org/project/indonesia/" },
+    "titleMain": { "text": "Resilient Coastal Cities", "url": "https://maps.coastalresilience.org/indonesia" },
+    "titleDetail": { "text": "Indonesia", "url": "https://coastalresilience.org/project/indonesia/" },
     "singlePluginMode": {
         "active": true,
         "pluginFolderName": "resilient-coastal-cities"
     },
     "headerLinks": [
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
-        { "text": "Legal Disclosure", "url": "http://coastalresilience.org/terms-of-use/" }
+        { "text": "Legal Disclosure", "url": "https://coastalresilience.org/terms-of-use/" }
     ],
     "initialExtent": [
          110.282797644,
@@ -19,7 +19,7 @@
     ],
     "basemaps": [
         { "name": "OpenStreetMap"      , "url": "" }, 
-        { "name": "Imagery"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" }
+        { "name": "Imagery"            , "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" }
     ],
     "pluginFolders": [
         "plugins"
@@ -28,9 +28,9 @@
 	    "resilient-coastal-cities"
     ],
     "print": {
-       "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+       "printServerUrl": "https://services2.coastalresilience.org/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
 	   "customPrintTemplatePrefix": "Letter ANSI A GeositeFramework",
-	   "headerLogoPath": "http://maps.coastalresilience.org/network/img/TNCLogoPrimary_RGB2.jpg"
+	   "headerLogoPath": "https://maps.coastalresilience.org/network/img/TNCLogoPrimary_RGB2.jpg"
     },
     "colors": {
         "primary": "#2F6384",
