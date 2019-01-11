@@ -1,1 +1,0 @@
-This file will be deleted during the build. Regions with App Intro enabled will empty this folder and put all the contents of the normal here.
